@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Albin%20Raju&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Infrastructure%20%7C%20Automation&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+DevOps+Engineer;☁️+AWS+GCP;🐳+Docker+Kubernetes;⚙️+Terraform+CI/CD" />
+</p>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
